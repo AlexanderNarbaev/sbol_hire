@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticOperations/ArithmeticOperations.iml" filepath="$PROJECT_DIR$/ArithmeticOperations/ArithmeticOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeTasks.iml" filepath="$PROJECT_DIR$/HomeTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberSystem/NumberSystem.iml" filepath="$PROJECT_DIR$/NumberSystem/NumberSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RussianPost/RussianPost.iml" filepath="$PROJECT_DIR$/RussianPost/RussianPost.iml" />
+    </modules>
+  </component>
+</project>
