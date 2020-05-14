@@ -1,4 +1,4 @@
 # Project exclude paths
 /NumberSystem/target/
 /.idea/
-/*.iml
+*/*.iml

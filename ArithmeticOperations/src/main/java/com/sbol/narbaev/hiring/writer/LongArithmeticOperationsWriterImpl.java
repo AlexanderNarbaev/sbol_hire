@@ -14,7 +14,7 @@ public class LongArithmeticOperationsWriterImpl implements ArithmeticOperationsW
         if (file == null || !file.isFile() || !file.exists() || !file.canRead()) {
             throw new ArithmeticOperationsWriterException();
         }
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(file, true))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
             for (ArithmeticOperationModel<Long> arithmeticOperationModel : operationModels) {
                 writer.write(arithmeticOperationModel.getOperationResult() != null
                         ? arithmeticOperationModel.getOperationResult().toString()
