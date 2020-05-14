@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>RussianPost</artifactId>
-    <name>NumberSystem</name>
+    <name>RussianPost</name>
 
     <packaging>jar</packaging>
 
